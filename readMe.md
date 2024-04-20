@@ -1,10 +1,12 @@
-#Headings1 Parameter Optimization of SVM Using Dry Bean Dataset
+<h2>Parameter Optimization of SVM Using Dry Bean Dataset</h2>
 
-This repository contains code for parameter optimization of Support Vector Machines (SVM) using the Dry Bean Dataset. The dataset is a multi-class classification problem with 17 features and 7 classes. The goal of this project is to find the best parameters for the SVM model in order to achieve the highest accuracy possible.
+<h4>This repository contains code for parameter optimization of Support Vector Machines (SVM) using the Dry Bean Dataset. The dataset is a multi-class classification problem with 17 features and 7 classes. The goal of this project is to find the best parameters for the SVM model in order to achieve the highest accuracy possible.</h4>
 
+<h4>
 Dataset
-The Dry Bean Dataset consists of 13611 instances with 16 attributes, including 17 feature attributes, 1 ID attribute, and 2 quality attributes. The dataset is publicly available at the UCI Machine Learning Repository. The features include geometric shape, form, and structure features of the beans that are important in selecting high-quality beans. The dataset is preprocessed and ready to be used for classification tasks.
+The Dry Bean Dataset consists of 13611 instances with 16 attributes, including 17 feature attributes, 1 ID attribute, and 2 quality attributes. The dataset is publicly available at the UCI Machine Learning Repository. The features include geometric shape, form, and structure features of the beans that are important in selecting high-quality beans. The dataset is preprocessed and ready to be used for classification tasks.</h4>
 
+<h4>
 1. Number of Instances: 13611
 2. Number of Attributes: 17
 3. Attribute Information:
@@ -26,6 +28,7 @@ The Dry Bean Dataset consists of 13611 instances with 16 attributes, including 1
 16.)ShapeFactor4 (SF4)
 17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)
 
+
 Requirements
 To run the code in this repository, you will need to have the following libraries installed:
 
@@ -40,9 +43,9 @@ To run the notebook, you can simply open it in Jupyter and run the cells one by 
 
 Results
 The results of the parameter optimization process are summarized in the notebook. The best parameters for the SVM model were found using GridSearchCV and resulted in an accuracy of 97.8%.
-
+</h4>
 Scatter Plot
-![ScatterPlots](https://github.com/sanchibatra/Parameter--Optimization--of--SVM/assets/135516556/f3324d11-7eb5-4cdf-b433-a7de461d2d51)
+![ScatterPlots](https://github.com/sanchibatra/Parameter--Optimization--of--SVM/assets/135516556/c9e7415f-bfb8-485b-aba2-f2a8b3c4d34b)
 
 
 Histogram
