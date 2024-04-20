@@ -1,4 +1,4 @@
-Parameter Optimization of SVM Using Dry Bean Dataset
+#Headings1 Parameter Optimization of SVM Using Dry Bean Dataset
 
 This repository contains code for parameter optimization of Support Vector Machines (SVM) using the Dry Bean Dataset. The dataset is a multi-class classification problem with 17 features and 7 classes. The goal of this project is to find the best parameters for the SVM model in order to achieve the highest accuracy possible.
 
